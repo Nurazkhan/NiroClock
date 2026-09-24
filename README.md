@@ -51,7 +51,7 @@ Main functions are:
 * 20cm Female-Female Jumper Wires	8
  
 
-The process of designing and creation you can see in the ![website]([url]https://stardance.hackclub.com/projects/63343)
+The process of designing and creation you can see in the [website]([url]https://stardance.hackclub.com/projects/63343)
 
 Thank you!
 #hackClub
